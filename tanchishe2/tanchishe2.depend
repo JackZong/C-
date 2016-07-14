@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1465881933 source:c:\users\аж╫Пуб\desktop\tanchishe2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
